@@ -31,6 +31,8 @@ https://github.com/VILLASframework/node/blob/master/lib/nodes/socket.cpp
 
 ## Configuration {#config}
 
+For TCP connection, the node can only be either server or client which is specified by "tcp-server" or "tcp-client" in the layer section.
+
 import ApiSchema from '@theme/ApiSchema';
 
 <ApiSchema id="node" example pointer="#/components/schemas/socket" />
