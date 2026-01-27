@@ -30,7 +30,7 @@ https://github.com/VILLASframework/node/blob/master/lib/nodes/gateway.cpp
 
 import ApiSchema from '@theme/ApiSchema';
 
-<ApiSchema id="node" example pointer="#/components/schemas/api" />
+<ApiSchema id="node" example pointer="#/components/schemas/gateway" />
 
 ## Example
 
